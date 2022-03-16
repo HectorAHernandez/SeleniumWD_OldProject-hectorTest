@@ -36,7 +36,7 @@ public class AccessingLinksExactMatch {
  And I have added another line for the second commit.
  My third line for third commit. Me
 
-My name is Hector Hernandez AMPARO
+My name is Hector Hernandez FRIA
 I am enjoying learning Change control with Github.
 After high school I want to be a Zim Benefactor.
 Because this is my favorite thing to do.
